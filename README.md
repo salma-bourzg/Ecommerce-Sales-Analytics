@@ -1,5 +1,9 @@
 # E-Commerce Sales Analytics | Power BI
 
+![E-Commerce Sales Analytics portfolio overview](assets/project_overview.svg)
+
+> **Visual project summary:** This illustration presents the four report sections. Original Power BI screenshots and the editable report file will be uploaded separately.
+
 An interactive **Business Intelligence portfolio project** exploring online retail sales, product performance, customer behavior, and revenue reconciliation.
 
 **Tools:** Power BI Desktop · Power Query · DAX · Data Cleaning · Data Visualization  
@@ -76,7 +80,7 @@ The four dashboard screenshots have been prepared and can be added to a `screens
 3. `03_customer_insights.png`
 4. `04_data_validation.png`
 
-**Pending upload:** These PNG images and the actual `Ecommerce_Sales_Analytics_Final.pbix` file are not yet stored in the repository. Once uploaded, the PBIX can be opened in **Power BI Desktop** to explore the interactive report.
+**Pending upload:** The original PNG screenshots and the editable `Ecommerce_Sales_Analytics_Final.pbix` are prepared but have not been uploaded to this repository yet. The existing overview illustration is not a Power BI screenshot.
 
 ## Data source and scope
 
